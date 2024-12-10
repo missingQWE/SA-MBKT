@@ -1,0 +1,6 @@
+total_number_user: 545
+total_number_item: 163388
+total_number_skill: 136
+total_number_Single_skill: 112
+total_number_interaction: 545969
+total_number_problem: 1083

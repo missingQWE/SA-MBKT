@@ -1,0 +1,10 @@
+所有学生数:574
+total_number_item: 0
+KCS: 112
+total_number_Single_skill: 0
+total_number_interaction: 54681
+total_number_problem: 1084
+
+混合知识点的次数： 52581
+混合知识点的类型数目：  25461
+所有的知识点数目为1： 112
